@@ -58,3 +58,43 @@ Transportation Research Part B: Methodological, 195, 103196 (2025).
 [![Preprint](https://img.shields.io/badge/Preprint-arXiv-B31B1B?style=flat)](https://arxiv.org/abs/2306.13543)
 
 ---
+
+### 📐 02 — Numerical Methods for Hamilton–Jacobi–Bellman Equations
+
+**Numerical PDEs | Optimal Control | Finite Difference Methods**
+
+A computational project dedicated to numerical approaches for solving **Hamilton–Jacobi–Bellman (HJB) equations**.
+
+The repository contains numerical implementations related to finite difference methods for HJB problems.
+
+**Research Topics:**
+
+- Hamilton–Jacobi–Bellman equations.
+- Numerical solution of partial differential equations.
+- Finite difference methods.
+- Computational methods for optimal control.
+
+[![Source Code](https://img.shields.io/badge/Explore_Repository-HJB-181717?style=flat&logo=github)](https://github.com/amalmach/HJB)
+
+---
+
+### 📊 03 — Numerical Optimization and Iterative Algorithms
+
+**Numerical Optimization | Krylov Methods | Nonlinear Solvers**
+
+A collection of numerical implementations and computational experiments exploring optimization algorithms and iterative numerical methods.
+
+**Available Topics:**
+
+- Krylov subspace methods for linear systems.
+- Fixed-step gradient descent.
+- Spectral gradient methods.
+- Efficient Global Optimization (EGO).
+- Newton–GMRES methods for nonlinear systems.
+- Numerical sampling and scientific computing utilities.
+
+The repository includes Python scripts and Jupyter notebooks illustrating different numerical approaches.
+
+[![Source Code](https://img.shields.io/badge/Explore_Repository-alg-181717?style=flat&logo=github)](https://github.com/amalmach/alg)
+
+---
