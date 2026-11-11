@@ -16,7 +16,10 @@
 
 ---
 
-## 👩‍🔬 About Me
+<details>
+<summary><b>👩‍🔬 About Me</b></summary>
+
+<br>
 
 I am a researcher in **Applied Mathematics and Scientific Computing**, with an interdisciplinary background combining mathematical modeling, numerical analysis, high-performance computing, and computational engineering.
 
@@ -29,6 +32,8 @@ My academic background includes:
 My work focuses on the **mathematical formulation, numerical approximation, and computational implementation** of models arising in scientific and engineering problems.
 
 I am particularly interested in bridging **mathematical theory, efficient numerical algorithms, and real-world engineering applications**.
+
+<details>
 
 ---
 
