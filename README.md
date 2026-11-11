@@ -16,11 +16,10 @@
 
 ---
 
+
 <details>
-<summary><b>👩‍🔬 About Me</b></summary>
-
-<br>
-
+<summary><h2>👩‍🔬 About Me</h2></summary>
+  
 I am a researcher in **Applied Mathematics and Scientific Computing**, with an interdisciplinary background combining mathematical modeling, numerical analysis, high-performance computing, and computational engineering.
 
 My academic background includes:
