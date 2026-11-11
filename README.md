@@ -22,12 +22,39 @@ I am a researcher in **Applied Mathematics and Scientific Computing**, with an i
 
 My academic background includes:
 
-- **PhD in Applied Mathematics** — Université Côte d'Azur, France (2026)
+- **PhD in Applied Mathematics** — Mohammed VI Polytechnic University (UM6P), Morocco, and Université Côte d’Azur, France (2026)
 - **MSc in Advanced Hybrid Modeling and Scientific Computing** — Mohammed VI Polytechnic University (UM6P), Morocco (2021)
 - **State Engineering Degree in Civil Engineering** — École Nationale des Sciences Appliquées d'Oujda (ENSAO), Morocco (2019)
 
 My work focuses on the **mathematical formulation, numerical approximation, and computational implementation** of models arising in scientific and engineering problems.
 
 I am particularly interested in bridging **mathematical theory, efficient numerical algorithms, and real-world engineering applications**.
+
+---
+
+## 🚀 Project Highlights
+
+### 🚦 01 — Mean-Field Games for Traffic Flow
+
+**Mathematical Modeling | Numerical Simulation | High-Performance Computing**
+
+This project focuses on the numerical investigation of **Mean-Field Game (MFG) models for traffic flow**, considering multi-class traffic dynamics.
+
+The computational implementations include:
+
+- Numerical treatment of Mean-Field Game traffic models.
+- Sequential Newton–Krylov methods with LGMRES.
+- Parallel implementations using MPI, PETSc, and Pyccel.
+- Computational investigations of multi-class traffic dynamics.
+
+**Associated Publication:**
+
+*Computational investigations of a multi-class traffic flow model: Mean-field and microscopic dynamics.*
+
+Transportation Research Part B: Methodological, 195, 103196 (2025).
+
+[![Source Code](https://img.shields.io/badge/Source_Code-GitHub-181717?style=flat&logo=github)](https://github.com/amalmach/MFG_Traffic)
+[![Publication](https://img.shields.io/badge/Publication-Elsevier-FF6C00?style=flat)](https://doi.org/10.1016/j.trb.2025.103196)
+[![Preprint](https://img.shields.io/badge/Preprint-arXiv-B31B1B?style=flat)](https://arxiv.org/abs/2306.13543)
 
 ---
