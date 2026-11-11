@@ -32,7 +32,7 @@ My work focuses on the **mathematical formulation, numerical approximation, and 
 
 I am particularly interested in bridging **mathematical theory, efficient numerical algorithms, and real-world engineering applications**.
 
-<details>
+</details>
   
 ---
 
@@ -118,5 +118,7 @@ A collection of numerical implementations and computational experiments explorin
 The repository includes Python scripts and Jupyter notebooks illustrating different numerical approaches.
 
 [![Source Code](https://img.shields.io/badge/Explore_Repository-alg-181717?style=flat&logo=github)](https://github.com/amalmach/alg)
+
+</details>
 
 </details>
