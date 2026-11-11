@@ -35,11 +35,17 @@ I am particularly interested in bridging **mathematical theory, efficient numeri
 
 <details>
 
----
+<details>
+<summary><h2>🚀 Project Highlights</h2></summary>
 
-## 🚀 Project Highlights
+An overview of my publicly available research projects, numerical algorithms, and scientific computing implementations.
 
-### 🚦 01 — Mean-Field Games for Traffic Flow
+<br>
+
+<details>
+<summary><b>🚦 01 — Mean-Field Games for Traffic Flow</b></summary>
+
+<br>
 
 **Mathematical Modeling | Numerical Simulation | High-Performance Computing**
 
@@ -62,9 +68,14 @@ Transportation Research Part B: Methodological, 195, 103196 (2025).
 [![Publication](https://img.shields.io/badge/Publication-Elsevier-FF6C00?style=flat)](https://doi.org/10.1016/j.trb.2025.103196)
 [![Preprint](https://img.shields.io/badge/Preprint-arXiv-B31B1B?style=flat)](https://arxiv.org/abs/2306.13543)
 
----
+</details>
 
-### 📐 02 — Numerical Methods for Hamilton–Jacobi–Bellman Equations
+<br>
+
+<details>
+<summary><b>📐 02 — Numerical Methods for Hamilton–Jacobi–Bellman Equations</b></summary>
+
+<br>
 
 **Numerical PDEs | Optimal Control | Finite Difference Methods**
 
@@ -81,9 +92,14 @@ The repository contains numerical implementations related to finite difference m
 
 [![Source Code](https://img.shields.io/badge/Explore_Repository-HJB-181717?style=flat&logo=github)](https://github.com/amalmach/HJB)
 
----
+</details>
 
-### 📊 03 — Numerical Optimization and Iterative Algorithms
+<br>
+
+<details>
+<summary><b>📊 03 — Numerical Optimization and Iterative Algorithms</b></summary>
+
+<br>
 
 **Numerical Optimization | Krylov Methods | Nonlinear Solvers**
 
@@ -102,4 +118,4 @@ The repository includes Python scripts and Jupyter notebooks illustrating differ
 
 [![Source Code](https://img.shields.io/badge/Explore_Repository-alg-181717?style=flat&logo=github)](https://github.com/amalmach/alg)
 
----
+</details>
