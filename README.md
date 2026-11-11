@@ -36,7 +36,7 @@ I am particularly interested in bridging **mathematical theory, efficient numeri
   
 ---
 
-<details>
+<details open>
 <summary><h2>🚀 Project Highlights</h2></summary>
 
 An overview of my publicly available research projects, numerical algorithms, and scientific computing implementations.
