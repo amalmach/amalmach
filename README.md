@@ -33,6 +33,7 @@ My work focuses on the **mathematical formulation, numerical approximation, and 
 I am particularly interested in bridging **mathematical theory, efficient numerical algorithms, and real-world engineering applications**.
 
 <details>
+---
 
 <details>
 <summary><h2>🚀 Project Highlights</h2></summary>
