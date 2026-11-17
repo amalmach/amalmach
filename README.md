@@ -117,7 +117,7 @@ A collection of numerical implementations and computational experiments explorin
 
 The repository includes Python scripts and Jupyter notebooks illustrating different numerical approaches.
 
-[![Source Code]([https://img.shields.io/badge/Explore_Repository-alg-181717?style=flat&logo=github](https://img.shields.io/badge/Explore_Repository-HJB-181717?style=flat&logo=github))](https://github.com/amalmach/Numerical-Optimization-and-Iterative-Methods)
+[![Source Code](https://img.shields.io/badge/Explore_Repository-HJB-181717?style=flat&logo=github)](https://github.com/amalmach/Numerical-Optimization-and-Iterative-Methods)
 
 </details>
 
