@@ -91,7 +91,7 @@ The repository contains numerical implementations related to finite difference m
 - Finite difference methods.
 - Computational methods for optimal control.
 
-[![Source Code](https://img.shields.io/badge/Explore_Repository-HJB-181717?style=flat&logo=github)](https://github.com/amalmach/HJB)
+[![Source Code](https://img.shields.io/badge/Source_Code-GitHub-181717?style=flat&logo=github)](https://github.com/amalmach/HJB)
 
 </details>
 
@@ -117,7 +117,7 @@ A collection of numerical implementations and computational experiments explorin
 
 The repository includes Python scripts and Jupyter notebooks illustrating different numerical approaches.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Numerical_Optimization-181717?style=flat&logo=github)](https://github.com/amalmach/Numerical-Optimization-and-Iterative-Methods)
+[![Source Code](https://img.shields.io/badge/Source_Code-GitHub-181717?style=flat&logo=github)](https://github.com/amalmach/Numerical-Optimization-and-Iterative-Methods)
 
 </details>
 
